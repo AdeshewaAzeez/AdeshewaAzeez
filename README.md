@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Azeez Fathia Adeshewa and i am a BusinesS/Data Analyst and IT Project Manager
 
 <!--
 **AdeshewaAzeez/AdeshewaAzeez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
