@@ -21,19 +21,17 @@
 
 • View my portfolio projects on my [website](https://bit.ly/AzeezFathiaProjects).
 
-• View my coding projects on [GitHub](https://bit.ly/AzeezFathiaProjects).
-
 
 ⭐ **Favorite Projects**
 
-• Retail Sales Performance Dashboard
+• Retail Sales Performance Dashboard - I had the chance to analyze a set of data that gave insights into the performance of a retail company over the years and I backed it up with a multipage data visualization dashboard.
 
-• Spotify - This project highlights the power of data in driving social media growth as i grew my tiktok channel by over 6000 followers in two(2) months.
+• City Market Business Process Optimization - This project highlights the power of data in driving social media growth as I and my team helped to improve the social media precense of Citymarket.ng on all social media platforms through strategized marketing.
 
 
 📫**Connect with Me**
 
-• [website](https://bit.ly/AzeezFathiaProjects)
+• [website](https://www.datascienceportfol.io/fathiaazeez)
 
 • [LinkedIn](www.linkedin.com/in/fathia-azeez)
 
